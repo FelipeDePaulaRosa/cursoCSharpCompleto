@@ -1,0 +1,6 @@
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 03\EstruturaWhile\EstruturaWhile\EstruturaWhile\bin\Debug\EstruturaWhile.exe.config
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 03\EstruturaWhile\EstruturaWhile\EstruturaWhile\bin\Debug\EstruturaWhile.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 03\EstruturaWhile\EstruturaWhile\EstruturaWhile\bin\Debug\EstruturaWhile.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 03\EstruturaWhile\EstruturaWhile\EstruturaWhile\obj\Debug\EstruturaWhile.csproj.CoreCompileInputs.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 03\EstruturaWhile\EstruturaWhile\EstruturaWhile\obj\Debug\EstruturaWhile.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 03\EstruturaWhile\EstruturaWhile\EstruturaWhile\obj\Debug\EstruturaWhile.pdb

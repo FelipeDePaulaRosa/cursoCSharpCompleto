@@ -1,0 +1,6 @@
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 10\ExercicioClassesMetodosAbstratos\ExercicioClassesMetodosAbstratos\bin\Debug\ExercicioClassesMetodosAbstratos.exe.config
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 10\ExercicioClassesMetodosAbstratos\ExercicioClassesMetodosAbstratos\bin\Debug\ExercicioClassesMetodosAbstratos.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 10\ExercicioClassesMetodosAbstratos\ExercicioClassesMetodosAbstratos\bin\Debug\ExercicioClassesMetodosAbstratos.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 10\ExercicioClassesMetodosAbstratos\ExercicioClassesMetodosAbstratos\obj\Debug\ExercicioClassesMetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 10\ExercicioClassesMetodosAbstratos\ExercicioClassesMetodosAbstratos\obj\Debug\ExercicioClassesMetodosAbstratos.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 10\ExercicioClassesMetodosAbstratos\ExercicioClassesMetodosAbstratos\obj\Debug\ExercicioClassesMetodosAbstratos.pdb

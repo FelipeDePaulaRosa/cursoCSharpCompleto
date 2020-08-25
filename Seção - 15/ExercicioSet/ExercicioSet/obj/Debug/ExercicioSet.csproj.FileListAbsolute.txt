@@ -1,0 +1,7 @@
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 15\ExercicioSet\ExercicioSet\bin\Debug\ExercicioSet.exe.config
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 15\ExercicioSet\ExercicioSet\bin\Debug\ExercicioSet.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 15\ExercicioSet\ExercicioSet\bin\Debug\ExercicioSet.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 15\ExercicioSet\ExercicioSet\obj\Debug\ExercicioSet.csprojAssemblyReference.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 15\ExercicioSet\ExercicioSet\obj\Debug\ExercicioSet.csproj.CoreCompileInputs.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 15\ExercicioSet\ExercicioSet\obj\Debug\ExercicioSet.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 15\ExercicioSet\ExercicioSet\obj\Debug\ExercicioSet.pdb

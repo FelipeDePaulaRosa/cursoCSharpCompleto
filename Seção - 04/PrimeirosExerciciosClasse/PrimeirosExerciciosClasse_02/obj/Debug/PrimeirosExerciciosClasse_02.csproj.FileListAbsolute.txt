@@ -1,0 +1,7 @@
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 04\PrimeirosExerciciosClasse\PrimeirosExerciciosClasse_02\bin\Debug\PrimeirosExerciciosClasse_02.exe.config
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 04\PrimeirosExerciciosClasse\PrimeirosExerciciosClasse_02\bin\Debug\PrimeirosExerciciosClasse_02.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 04\PrimeirosExerciciosClasse\PrimeirosExerciciosClasse_02\bin\Debug\PrimeirosExerciciosClasse_02.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 04\PrimeirosExerciciosClasse\PrimeirosExerciciosClasse_02\obj\Debug\PrimeirosExerciciosClasse_02.csprojAssemblyReference.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 04\PrimeirosExerciciosClasse\PrimeirosExerciciosClasse_02\obj\Debug\PrimeirosExerciciosClasse_02.csproj.CoreCompileInputs.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 04\PrimeirosExerciciosClasse\PrimeirosExerciciosClasse_02\obj\Debug\PrimeirosExerciciosClasse_02.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 04\PrimeirosExerciciosClasse\PrimeirosExerciciosClasse_02\obj\Debug\PrimeirosExerciciosClasse_02.pdb

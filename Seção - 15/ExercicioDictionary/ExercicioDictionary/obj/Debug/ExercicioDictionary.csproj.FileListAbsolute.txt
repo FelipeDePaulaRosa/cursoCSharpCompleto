@@ -1,0 +1,7 @@
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 15\ExercicioDictionary\ExercicioDictionary\bin\Debug\ExercicioDictionary.exe.config
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 15\ExercicioDictionary\ExercicioDictionary\bin\Debug\ExercicioDictionary.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 15\ExercicioDictionary\ExercicioDictionary\bin\Debug\ExercicioDictionary.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 15\ExercicioDictionary\ExercicioDictionary\obj\Debug\ExercicioDictionary.csprojAssemblyReference.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 15\ExercicioDictionary\ExercicioDictionary\obj\Debug\ExercicioDictionary.csproj.CoreCompileInputs.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 15\ExercicioDictionary\ExercicioDictionary\obj\Debug\ExercicioDictionary.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 15\ExercicioDictionary\ExercicioDictionary\obj\Debug\ExercicioDictionary.pdb

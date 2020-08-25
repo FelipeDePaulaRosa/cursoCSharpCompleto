@@ -1,0 +1,7 @@
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExercicioMatriz\ExercicioMatriz\bin\Debug\ExercicioMatriz.exe.config
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExercicioMatriz\ExercicioMatriz\bin\Debug\ExercicioMatriz.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExercicioMatriz\ExercicioMatriz\bin\Debug\ExercicioMatriz.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExercicioMatriz\ExercicioMatriz\obj\Debug\ExercicioMatriz.csproj.CoreCompileInputs.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExercicioMatriz\ExercicioMatriz\obj\Debug\ExercicioMatriz.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExercicioMatriz\ExercicioMatriz\obj\Debug\ExercicioMatriz.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExercicioMatriz\ExercicioMatriz\obj\Debug\ExercicioMatriz.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 16\ExercicioLambdaLinq\ExercicioLambdaLinq\bin\Debug\ExercicioLambdaLinq.exe.config
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 16\ExercicioLambdaLinq\ExercicioLambdaLinq\bin\Debug\ExercicioLambdaLinq.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 16\ExercicioLambdaLinq\ExercicioLambdaLinq\bin\Debug\ExercicioLambdaLinq.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 16\ExercicioLambdaLinq\ExercicioLambdaLinq\obj\Debug\ExercicioLambdaLinq.csprojAssemblyReference.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 16\ExercicioLambdaLinq\ExercicioLambdaLinq\obj\Debug\ExercicioLambdaLinq.csproj.CoreCompileInputs.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 16\ExercicioLambdaLinq\ExercicioLambdaLinq\obj\Debug\ExercicioLambdaLinq.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 16\ExercicioLambdaLinq\ExercicioLambdaLinq\obj\Debug\ExercicioLambdaLinq.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 17\ExercicioLambdaLinq\ExercicioLambdaLinq\bin\Debug\ExercicioLambdaLinq.exe.config
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 17\ExercicioLambdaLinq\ExercicioLambdaLinq\bin\Debug\ExercicioLambdaLinq.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 17\ExercicioLambdaLinq\ExercicioLambdaLinq\bin\Debug\ExercicioLambdaLinq.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 17\ExercicioLambdaLinq\ExercicioLambdaLinq\obj\Debug\ExercicioLambdaLinq.csprojAssemblyReference.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 17\ExercicioLambdaLinq\ExercicioLambdaLinq\obj\Debug\ExercicioLambdaLinq.csproj.CoreCompileInputs.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 17\ExercicioLambdaLinq\ExercicioLambdaLinq\obj\Debug\ExercicioLambdaLinq.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 17\ExercicioLambdaLinq\ExercicioLambdaLinq\obj\Debug\ExercicioLambdaLinq.pdb

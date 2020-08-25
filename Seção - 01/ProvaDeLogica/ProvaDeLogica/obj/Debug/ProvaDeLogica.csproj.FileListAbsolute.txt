@@ -1,0 +1,7 @@
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 01\ProvaDeLogica\ProvaDeLogica\bin\Debug\ProvaDeLogica.exe.config
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 01\ProvaDeLogica\ProvaDeLogica\bin\Debug\ProvaDeLogica.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 01\ProvaDeLogica\ProvaDeLogica\bin\Debug\ProvaDeLogica.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 01\ProvaDeLogica\ProvaDeLogica\obj\Debug\ProvaDeLogica.csprojAssemblyReference.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 01\ProvaDeLogica\ProvaDeLogica\obj\Debug\ProvaDeLogica.csproj.CoreCompileInputs.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 01\ProvaDeLogica\ProvaDeLogica\obj\Debug\ProvaDeLogica.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 01\ProvaDeLogica\ProvaDeLogica\obj\Debug\ProvaDeLogica.pdb

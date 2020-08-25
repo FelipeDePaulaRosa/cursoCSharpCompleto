@@ -1,0 +1,6 @@
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 09\ExercicioEnumComposicao\ExercicioEnumComposicao\bin\Debug\ExercicioEnumComposicao.exe.config
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 09\ExercicioEnumComposicao\ExercicioEnumComposicao\bin\Debug\ExercicioEnumComposicao.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 09\ExercicioEnumComposicao\ExercicioEnumComposicao\bin\Debug\ExercicioEnumComposicao.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 09\ExercicioEnumComposicao\ExercicioEnumComposicao\obj\Debug\ExercicioEnumComposicao.csproj.CoreCompileInputs.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 09\ExercicioEnumComposicao\ExercicioEnumComposicao\obj\Debug\ExercicioEnumComposicao.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 09\ExercicioEnumComposicao\ExercicioEnumComposicao\obj\Debug\ExercicioEnumComposicao.pdb

@@ -1,0 +1,6 @@
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExerciciosVetores\ExerciciosVetores\bin\Debug\ExerciciosVetores.exe.config
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExerciciosVetores\ExerciciosVetores\bin\Debug\ExerciciosVetores.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExerciciosVetores\ExerciciosVetores\bin\Debug\ExerciciosVetores.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExerciciosVetores\ExerciciosVetores\obj\Debug\ExerciciosVetores.csproj.CoreCompileInputs.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExerciciosVetores\ExerciciosVetores\obj\Debug\ExerciciosVetores.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExerciciosVetores\ExerciciosVetores\obj\Debug\ExerciciosVetores.pdb

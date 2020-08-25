@@ -1,0 +1,7 @@
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExercicioListas\ExercicioListas\bin\Debug\ExercicioListas.exe.config
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExercicioListas\ExercicioListas\bin\Debug\ExercicioListas.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExercicioListas\ExercicioListas\bin\Debug\ExercicioListas.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExercicioListas\ExercicioListas\obj\Debug\ExercicioListas.csprojAssemblyReference.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExercicioListas\ExercicioListas\obj\Debug\ExercicioListas.csproj.CoreCompileInputs.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExercicioListas\ExercicioListas\obj\Debug\ExercicioListas.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 06\ExercicioListas\ExercicioListas\obj\Debug\ExercicioListas.pdb

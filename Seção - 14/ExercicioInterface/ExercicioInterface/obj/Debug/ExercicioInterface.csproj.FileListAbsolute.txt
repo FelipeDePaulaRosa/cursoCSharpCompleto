@@ -1,0 +1,7 @@
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 14\ExercicioInterface\ExercicioInterface\bin\Debug\ExercicioInterface.exe.config
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 14\ExercicioInterface\ExercicioInterface\bin\Debug\ExercicioInterface.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 14\ExercicioInterface\ExercicioInterface\bin\Debug\ExercicioInterface.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 14\ExercicioInterface\ExercicioInterface\obj\Debug\ExercicioInterface.csprojAssemblyReference.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 14\ExercicioInterface\ExercicioInterface\obj\Debug\ExercicioInterface.csproj.CoreCompileInputs.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 14\ExercicioInterface\ExercicioInterface\obj\Debug\ExercicioInterface.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 14\ExercicioInterface\ExercicioInterface\obj\Debug\ExercicioInterface.pdb

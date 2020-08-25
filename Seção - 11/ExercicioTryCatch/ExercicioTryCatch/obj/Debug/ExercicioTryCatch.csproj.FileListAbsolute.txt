@@ -1,0 +1,6 @@
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 11\ExercicioTryCatch\ExercicioTryCatch\bin\Debug\ExercicioTryCatch.exe.config
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 11\ExercicioTryCatch\ExercicioTryCatch\bin\Debug\ExercicioTryCatch.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 11\ExercicioTryCatch\ExercicioTryCatch\bin\Debug\ExercicioTryCatch.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 11\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\ExercicioTryCatch.csproj.CoreCompileInputs.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 11\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\ExercicioTryCatch.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 11\ExercicioTryCatch\ExercicioTryCatch\obj\Debug\ExercicioTryCatch.pdb

@@ -1,0 +1,6 @@
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 10\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\bin\Debug\ExercicioHerancaPolimorfismo.exe.config
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 10\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\bin\Debug\ExercicioHerancaPolimorfismo.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 10\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\bin\Debug\ExercicioHerancaPolimorfismo.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 10\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\obj\Debug\ExercicioHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 10\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\obj\Debug\ExercicioHerancaPolimorfismo.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 10\ExercicioHerancaPolimorfismo\ExercicioHerancaPolimorfismo\obj\Debug\ExercicioHerancaPolimorfismo.pdb

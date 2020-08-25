@@ -1,0 +1,6 @@
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 04\PrimeirosExerciciosClasse\PrimeirosExerciciosClasse\bin\Debug\PrimeirosExerciciosClasse.exe.config
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 04\PrimeirosExerciciosClasse\PrimeirosExerciciosClasse\bin\Debug\PrimeirosExerciciosClasse.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 04\PrimeirosExerciciosClasse\PrimeirosExerciciosClasse\bin\Debug\PrimeirosExerciciosClasse.pdb
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 04\PrimeirosExerciciosClasse\PrimeirosExerciciosClasse\obj\Debug\PrimeirosExerciciosClasse.csproj.CoreCompileInputs.cache
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 04\PrimeirosExerciciosClasse\PrimeirosExerciciosClasse\obj\Debug\PrimeirosExerciciosClasse.exe
+C:\ProjetosFelipeRosa\PlanoEstagioFelipeRosa\Curso C# - VS\Seção - 04\PrimeirosExerciciosClasse\PrimeirosExerciciosClasse\obj\Debug\PrimeirosExerciciosClasse.pdb
